@@ -6,7 +6,7 @@
 
 ## 目录
 ### basic
-#### [parameters and arguments1](basic/parameters and arguments1.md)
+#### [parameters and arguments1](basic/parameters\ and\ arguments1.md)
 #### [basic1](basic/basic1.md)
 #### [parameters and arguments2](basic/parameters and arguments2.md)
 #### [basic2](basic/basic2.md)
