@@ -1,4 +1,4 @@
-# 泛型函数
+# Python函数式（五）——泛型函数
 
 本文为大家介绍Python中的泛型函数（generic function）与实现方式。
 

@@ -1,10 +1,10 @@
+# Python的基础故事（四）
+
 Python 3.7
 
 Python 3.7版本在今天正式Release啦！
 
 查看新特性或下载请复制链接：https://www.python.org/downloads/release/python-370/?hn
-
-
 
 一个谜题
 

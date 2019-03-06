@@ -1,4 +1,4 @@
-# Multimethods
+# Python函数式（七）——multimethods
 
 本文为大家介绍Guido于2005年对于泛型函数的一些构想。文章原文链接参见文末参考文献。
 

@@ -1,4 +1,4 @@
-# Python模块化管理——管理包内资源
+# Python模块化管理（八）——管理包内资源
 
 本文为大家带来Python 3.7版本的一个新的特性：更快的包内资源管理方式——`importlib.resources`。
 

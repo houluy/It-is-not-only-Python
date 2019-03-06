@@ -1,3 +1,5 @@
+# Python的基础故事（一）
+
 Python是一门多范式高级动态解释型编程语言。它在1989年由[Guido van Rossum](https://baike.baidu.com/item/Guido%20van%20Rossum)（以下简称老爷子）创建。是一门纯粹的开源自由软件，其C语言实现CPython遵从GPL（GNU General Public License）开源协议。目前由Python Software Foundation（PSF）负责维护和发展Python，并促进国际性Python社区的成长。Python这个名字来自于一个BBC的电视节目名字：*Monty Python's Flying Circus*。关于老爷子还有一个有趣的传说：老爷子在面试谷歌的时候，简历上只写了一句话：*I wrote Python*，然后被面试官嘲笑了9轮，直到第10轮才被人认出他是Python的发明者（假的哦，谷歌面试官没这么瞎）。
 
 - 多范式：支持各类编程范式

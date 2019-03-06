@@ -1,4 +1,4 @@
-# Python的基础故事——数组or列表？
+# Python的基础故事（九）——数组or列表？
 
 ## Python数组
 

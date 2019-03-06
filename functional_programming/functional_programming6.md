@@ -154,8 +154,6 @@ print(coercion('mul', c, a))
 
 强制多态也存在一定的缺陷，即强制类型退化会导致精度损失。
 
-我想，开头的问题我们应该有答案了吧？
-
-
+说到这里，开头的问题我们应该有答案了吧？
 
 Source : http://inst.eecs.berkeley.edu/~cs61A/book/chapters/objects.html#generic-functions

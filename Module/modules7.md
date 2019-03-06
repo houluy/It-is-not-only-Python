@@ -1,4 +1,4 @@
-# Python模块化管理——路径搜索器
+# Python模块化管理（七）——路径导入器
 
 在前面几期内容为大家介绍了Python中的import机制中的`meta_path`导入器。本期为大家带来Python的一个比较特殊的Finder的介绍——path entry finders。
 

@@ -1,3 +1,5 @@
+# Python函数式（一）——初探
+
 函数式编程是一种编程范式，它的核心是一套紧密完善的数学理论，称之为λ演算（λ-Calculus）。
 
 按照编程范式来区分语言（或者说按照如何分解一个问题来区分），可以有如下四类：
@@ -318,6 +320,6 @@ https://docs.python.org/3/howto/functional.html
 
 http://www.ruanyifeng.com/blog/2017/02/fp-tutorial.html
 
-http://www.ruanyifeng.com/blog/2012/04/functional_programming.html
+http://www.ruanyifeng.com/blog/2012/04/functional\_programming.html
 
 https://www.inf.fu-berlin.de/lehre/WS03/alpi/lambda.pdf

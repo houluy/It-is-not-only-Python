@@ -1,4 +1,4 @@
-## 生成器代理`yield from`
+## Python函数式（八）——生成器代理
 
 本文为大家介绍`yield from`语法的内容。
 

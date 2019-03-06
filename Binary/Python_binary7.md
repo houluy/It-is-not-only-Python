@@ -1,4 +1,4 @@
-# Python字符、编码与二进制
+# Python字符、编码与二进制（七）——序列化（下）
 
 ## shelve
 
@@ -277,7 +277,7 @@ class BytesEncoder(json.JSONEncoder):
             }
         else:
             return super().default(obj)
-        
+
 d = {
     'a': 'hello',
     'b': b'hello',
