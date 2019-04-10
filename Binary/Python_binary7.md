@@ -300,5 +300,3 @@ print(json.loads(jd, cls=BytesDecoder))
 # {'b': b'hello', 'a': 'hello'}
 ```
 
-
-
