@@ -4,6 +4,9 @@
 
 ![image](qrcode.jpg)
 
+# 联系作者
+侯璐 <houlu8674@bupt.edu.cn>
+
 # 目录
 ##  Python的基础故事
 ### [Python的基础故事1](basic/basic1.md)
@@ -82,6 +85,4 @@
 ### [Python面向对象32](Object_Oriented/object_oriented32.md)
 ### [Python面向对象33](Object_Oriented/object_oriented33.md)
 
-# 联系作者
-侯璐<houlu8674@bupt.edu.cn>
 
