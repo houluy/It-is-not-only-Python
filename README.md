@@ -51,6 +51,7 @@
 ### [Python函数式6](functional_programming/functional_programming6.md)
 ### [Python函数式7](functional_programming/functional_programming7.md)
 ### [Python函数式8](functional_programming/functional_programming8.md)
+### [Python函数式9](functional_programming/functional_programming9.md)
 ##  Python面向对象
 ### [Python面向对象1](Object_Oriented/object_oriented1.md)
 ### [Python面向对象2](Object_Oriented/object_oriented2.md)
