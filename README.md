@@ -21,6 +21,7 @@
 ### [Python的基础故事9](basic/basic9.md)
 ### [Python的基础故事10](basic/basic10.md)
 ### [Python的基础故事11](basic/basic11.md)
+### [Python的基础故事12](basic/basic12.md)
 ##  Python编码与二进制
 ### [Python编码与二进制1](Binary/Python_binary1.md)
 ### [Python编码与二进制2](Binary/Python_binary2.md)
