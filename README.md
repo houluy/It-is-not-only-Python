@@ -90,5 +90,6 @@
 ### [Python面向对象31](Object_Oriented/object_oriented31.md)
 ### [Python面向对象32](Object_Oriented/object_oriented32.md)
 ### [Python面向对象33](Object_Oriented/object_oriented33.md)
+### [Python面向对象34](Object_Oriented/object_oriented34.md)
 
 
