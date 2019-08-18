@@ -193,9 +193,9 @@ class IgKwdDic(dict): # Ignore Keyword dict
         self.factory = factory # 省去了可调用判断
         
     def __missing__(self, key):
-        if key in dir(builtins):
+        try:
             return getattr(builtins, key)
-        else:
+        except AttributeError:
             self[key] = value = self.factory()
             return value
 
