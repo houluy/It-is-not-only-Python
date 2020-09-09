@@ -94,7 +94,7 @@
 ## Python的日志系统
 ### [Python的日志系统1](Logging/logging1.md)
 ### [Python的日志系统2](Logging/logging2.md)
-
 ### [Python的日志系统3](Logging/logging3.md)
-
 ### [Python的日志系统4](Logging/logging4.md)
+### [Python的日志系统5](Logging/logging5.md)
+### [Python的日志系统6](Logging/logging6.md)
