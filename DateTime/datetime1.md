@@ -155,6 +155,9 @@ print(time.strptime(str_time))
 
 ### 参考文献
 
+[struct_time][]
+[strftime][]
+
 [struct_time]: https://docs.python.org/3/library/time.html#time.struct_time
 [strftime]: https://docs.python.org/3/library/time.html#time.strftime
 
