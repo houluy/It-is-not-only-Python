@@ -100,4 +100,5 @@
 ### [Python的日志系统6](Logging/logging6.md)
 ## Python时间与日期
 ### [Python时间与日期1](DateTime/datetime1.md)
+### [Python时间与日期2](DateTime/datetime2.md)
 
