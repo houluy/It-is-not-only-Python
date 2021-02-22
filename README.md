@@ -101,4 +101,6 @@
 ## Python时间与日期
 ### [Python时间与日期1](DateTime/datetime1.md)
 ### [Python时间与日期2](DateTime/datetime2.md)
+## Python内建函数
+### [Python内建函数1](builtins/builtins1.md)
 
