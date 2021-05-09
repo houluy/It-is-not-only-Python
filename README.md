@@ -106,4 +106,5 @@
 ### [Python内建函数2](builtins/builtins2.md)
 ### [Python内建函数3](builtins/builtins3.md)
 ### [Python内建函数4](builtins/builtins4.md)
+### [Python内建函数5](builtins/builtins5.md)
 
